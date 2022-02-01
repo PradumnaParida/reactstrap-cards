@@ -1,0 +1,74 @@
+.ct333 {
+  color: white;
+  font-size: 7vw !important;
+  text-align: start;
+  font-weight: bold;
+}
+
+#bg333 {
+  background-color: rgb(233, 15, 15);
+}
+#cht333 {
+  padding: 1vw;
+}
+.sp222333 {
+  font-size: 2vw;
+  color: white;
+}
+
+.SP3333 {
+  font-size: 7vw;
+  color: white;
+}
+
+#btn222333 {
+  width: 40%;
+  border-radius: 1vw;
+  height: 15vw;
+  margin: 0 !important;
+  border: 0.1vw solid white !important;
+  float: left;
+  left: 1vw;
+  position: absolute;
+  background-color: rgb(233, 15, 15) !important;
+}
+#p333 {
+  overflow: auto;
+  width: 100%;
+}
+#imgg333 {
+  height: 50vw;
+  width: 100%;
+  position: relative;
+  float: right;
+  overflow: auto;
+  top: -1vw;
+  right: -1vw;
+}
+
+#spn1333 {
+  width: 10% !important;
+}
+
+#spn2333 {
+  width: 70% !important;
+}
+#foo {
+  width: 100%;
+  overflow: auto;
+}
+.foo {
+  font-size: 4vw;
+  color: white;
+  width: 12%;
+  float: left;
+  font-weight: bolder;
+  padding: 0;
+}
+.foo1 {
+  font-size: 2vw;
+  color: white;
+  width: 12%;
+  float: left;
+  font-weight: lighter;
+}
